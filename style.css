@@ -9,7 +9,7 @@ body{
     align-items: center;
 }
 .container{
-    /* margin: auto; */
+    margin: auto; 
     width: 450px;
     background-color: #e1dfdf;
     overflow: hidden;
